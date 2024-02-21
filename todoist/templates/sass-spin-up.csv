@@ -11,6 +11,8 @@ task,Recycle API key,,4,2,,,,en,GMT +1:00,,None
 ,,,,,,,,,,,
 task,Add 2FA,,4,2,,,,en,GMT +1:00,,None
 ,,,,,,,,,,,
+task,Remove from Dashlane,,4,2,,,,en,GMT +1:00,,None
+,,,,,,,,,,,
 task,Learn all the keyboard shortcuts,,4,1,,,,en,GMT +1:00,,None
 ,,,,,,,,,,,
 task,Learn the search criteria to maximise usage,,4,1,,,,en,GMT +1:00,,None
@@ -73,4 +75,4 @@ task,Raspberry Pi,,4,2,,,,en,GMT +1:00,,None
 ,,,,,,,,,,,
 task,Windows,,4,2,,,,en,GMT +1:00,,None
 ,,,,,,,,,,,
-task,Schedule socials health checklist,,4,2,,,,en,GMT +1:00,,None
+task,Schedule socials health checklist,,4,1,,,,en,GMT +1:00,,None
